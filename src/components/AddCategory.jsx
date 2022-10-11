@@ -30,7 +30,7 @@ export const AddCategory = ({ onNewCategory }) => {
 
     return (
         <div>
-            <h3>Buscador de gift</h3>
+            <h3>Buscador de gifs</h3>
             <form onSubmit={onSubmit}>
                 <input
                     type="text"
